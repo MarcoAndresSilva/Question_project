@@ -4,8 +4,8 @@
 <h4>click in the spam and open the div dynamically </h4>
 
 <h3>summary</h3>
-<h4>//There's two ways to do it.</h4>
-<h4>//using selectors inside the element</h4>
+<h4>There's two ways to do it.</h4>
+<h4>using selectors inside the element</h4>
 <h4>traversing the dom</h4>
 
 <h3>Tools & Technologies</h3>
