@@ -5,8 +5,8 @@
 
 <h3>summary</h3>
 <h4>There's two ways to do it.</h4>
-<h4>using selectors inside the element</h4>
-<h4>traversing the dom</h4>
+<h4> <h2>1</h2> using selectors inside the element</h4>
+<h4> <h2>2</h2> traversing the dom</h4>
 
 <h3>Tools & Technologies</h3>
 <p>
